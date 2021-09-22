@@ -10,26 +10,26 @@ https://
 http://
 #EXTINF:-1 tvg-logo="",TV Senado
 http://
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Cidade_Fortaleza.png",TV Cidade HD
-https://list.iptvcat.com/my_list/s/a886c22fb1de8269e7982d16dbac89bd.m3u8
+#EXTINF:-1 tvg-logo="",TV Cidade HD
+http://
 #EXTINF:-1 tvg-logo="",TV CAPITAL HD
 http://
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/200?cb=20130411194427",TV VERDES MARES HD
 https://list.iptvcat.com/my_list/s/b5111b835d65a772b4fbd7bef8dd18e7.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/SBT_%282012%29.png/revision/latest/scale-to-width-down/200?cb=20161107225754",JANGADEIRO HDTV
-https://list.iptvcat.com/my_list/s/4a57b810de435ec56e5b9408579c13a8.m3u8
+https://list.iptvcat.com/my_list/s/1f8c6607db28f9c6af82d34b4053b896.m3u8
 #EXTINF:-1 tvg-logo="",Record News HD
 https://
 #EXTINF:-1 tvg-logo="",TV METROPOLE HD
 https://
-#EXTINF:-1 tvg-logo="",TV UNIÃO HD
-https://
-#EXTINF:-1 tvg-logo="",Rede Brasil HD
-https://
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/db/Logotipo_da_Rede_Uni%C3%A3o.png",TV UNIÃO HD
+https://list.iptvcat.com/my_list/s/4082dff81d0e0ca1294126151d57fec1.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png",Rede Brasil HD
+https://list.iptvcat.com/my_list/s/551889833cc41e0eef84621b7ec5df2c.m3u8
 #EXTINF:-1 tvg-logo="",BAND CE
 http://
-#EXTINF:-1 tvg-logo="",TV DIÃRIO HD
-http://
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThx9gzwtXH3IhJym9tM0zLiyzN1wrEpKGapQ&usqp=CAU",TV DIÃRIO HD
+https://list.iptvcat.com/my_list/s/86fa15f11a70fd79fd0c4826a908c60b.m3u8
 #EXTINF:-1 tvg-logo="",TV NOVO TEMPO HD
 https://
 #EXTINF:-1 tvg-logo="",TV DA GENTE HD
